@@ -1,0 +1,6 @@
+{
+  "name": "Phonics Kids IPA - Dạy Phát Âm Tiếng Anh",
+  "description": "Ứng dụng học phát âm Phonics & IPA sinh động cho học sinh tiểu học với tính năng ghi âm, chấm điểm AI, âm thanh vui nhộn và bảng xếp hạng hàng ngày.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
